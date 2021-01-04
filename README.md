@@ -2,7 +2,7 @@
 To Detect Disease (Diabetes) by using Retinal images as our dataset, eye movement and deep neural networks.
 
 
-1. Open the dataset from ​ this​ link.
+1. Open the dataset from ​ this​ link. -->  https://drive.google.com/drive/folders/1DfvoLYX3ZdeMmb_LY2syewKiJBz10iIi?usp=sharing
 2. Download the dataset and upload it in your drive.
 3. Now, open the given ipynb file named as Autism_detection.ipynb file in
 google colab.
